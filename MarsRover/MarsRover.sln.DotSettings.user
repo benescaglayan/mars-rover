@@ -1,9 +1,0 @@
-﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=eacfb8d2_002D0de9_002D45b9_002Da272_002D1a8378531451/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ShouldHeadEast_WhenTurnedLeft_GivenHeadedNorth" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;Or&gt;&#xD;
-    &lt;Project Location="C:\Users\Batuhan Caglayan\Rider Projects\mars-rover\MarsRover\UnitTests" Presentation="&amp;lt;UnitTests&amp;gt;" /&gt;&#xD;
-    &lt;TestAncestor&gt;&#xD;
-      &lt;TestId&gt;xUnit::DCEEFED4-3463-41CD-A256-55790C9EBE1C::net5.0::UnitTests.RoverTests.MoveTests&lt;/TestId&gt;&#xD;
-    &lt;/TestAncestor&gt;&#xD;
-  &lt;/Or&gt;&#xD;
-&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
