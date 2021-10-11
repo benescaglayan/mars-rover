@@ -110,7 +110,7 @@ namespace UnitTests.RoverTests
         }
         
         [Fact]
-        public void ShouldThrowInvalidCommandException_WhenMoved_GivenHeadedEastAtLowerEdge()
+        public void ShouldThrowInvalidCommandException_WhenMoved_GivenHeadedSouthAtLowerEdge()
         {
             var xCoord = 4;
             var yCoord = 0;
